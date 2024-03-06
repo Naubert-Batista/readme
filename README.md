@@ -1,6 +1,6 @@
 <!-- ![logo](./img/png-clipart-computer-icons-pro-git-github-logo-text-logo-thumbnail.png) -->
 
-<cp align="center">
+<p align="center">
 <img src="./img/png-clipart-computer-icons-pro-git-github-logo-text-logo-thumbnail.png">
 </p>
  
@@ -26,13 +26,60 @@ Conteúdo
     </li>
     
 <li>
-    <a href="##statusprejto">Status Projeto</a>
+    <a href="##statusprejeto">Status Projeto</a>
  </li>
+ <li>
+<a href="#features">Features</a>
+</li>
+
+<li>
+<a href="#pre-requisitos">Pre-requisito</a>
+</li>
+
+<li>
+<a href="#mapa-do-projeto">Mapa do projeto</a>
+</li>
+
+<li>
+<a href="#tecnologias-utilizadas">Tecnologia</a>
+</li>
 
 </ul>
 
 ## :rocket: Status do projeto
 <h4
 id="statuspreojeto"align="left">
-Em construçâo
+Em construçâo....
 </h4>
+
+ <p id="Features"></p>
+ 
+ ## Features
+- [x] Readme - Padroes de documentacao
+- [ ] Readme - Usando SSH
+
+## Pre requisitos
+
+voce precisa ter instalado
+
+<ul>
+<li>
+<a href= "https://code.visualstudio.com/">VS Code</a>
+ </li>
+</ul>
+
+## Mapa do projeto 
+
+```
+├───img
+└───src
+    ├───app
+    ├───interface
+    └───repository
+
+```
+
+## Tecnologias Utilizadas 
+
+- [HTML]
+- [Markdown]
